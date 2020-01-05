@@ -1,1 +1,1 @@
-# draw-overlay-chrome-extension
+# web-overlay-chrome-extension
